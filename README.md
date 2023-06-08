@@ -25,7 +25,7 @@ npm install
 ```
 
 Create a .env file (or just export manually in the terminal) in the root of the project and add the following:  
-<a href="OCI Command Line Interface Installation and Configuration on Linux Instance">OCI Command Line Interface Installation and Configuration on Linux Instance</a>
+<a href="https://www.youtube.com/watch?v=bY3jQMMHxdw&list=PLKCk3OyNwIzuA-dqI5vkhZVIc_cxHCkp5&index=20">OCI Command Line Interface Installation and Configuration on Linux Instance</a>
 
 ```
 DATABASEURL='<url>'
